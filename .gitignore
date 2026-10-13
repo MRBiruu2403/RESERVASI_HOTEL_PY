@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (jika ada)
+venv/
+env/
+ENV/
+
+# Database (jika menggunakan SQLite lokal, sesuaikan namanya)
+*.db
+*.sqlite3
+
+# File environment (jika menyimpan API key / password)
+.env
